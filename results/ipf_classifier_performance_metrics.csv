@@ -1,0 +1,6 @@
+Metric,Value
+Model,Sparse Linear Classifier
+Accuracy,0.8942
+Sensitivity,0.912
+Specificity,0.876
+AUC_ROC,0.9431
